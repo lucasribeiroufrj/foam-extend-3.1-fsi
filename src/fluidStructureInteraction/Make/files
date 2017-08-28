@@ -62,3 +62,6 @@ stressModels/simpleCohesiveLaws/Dugdale/DugdaleSimpleCohesiveLaw.C
 fluidStructureInterface/fluidStructureInterface.C
 
 LIB = $(FOAM_USER_LIBBIN)/libfluidStructureInteraction
+
+flowModels/nonNewtonianIcoFlow/nonNewtonianIcoFlow.C
+flowModels/nonNewtonianConsistentIcoFlow/nonNewtonianConsistentIcoFlow.C
